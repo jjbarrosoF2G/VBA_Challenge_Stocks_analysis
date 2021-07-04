@@ -3,7 +3,7 @@
 The main objective of this analysis is to quickly identify potentially attractive stocks for new investors, based on positive performing stocks from 2017 & 2018. 
 
 ## Results:
-In 2017, most stocks provided positive results, and could therefore be considered attractive for 2018. However, only two of these stocks had positive results in 2018, making them the most attractive stock to recommend for further investment.
+In 2017, most stocks provided positive results, with the exception of "TERP", and could therefore be considered attractive for investment in 2018. However, only two of the stocks analyzed actually had positive results in 2018,"ENPH" and "RUN", which also had considerable Trading Volume. This factors make them the most attractive stocks to recommend for further investment.
 
 <img width="278" alt="Screen Shot 2021-07-04 at 1 51 30 PM" src="https://user-images.githubusercontent.com/86029436/124398072-56f76580-dcd9-11eb-8c4f-f80e315907df.png"> 
 <img width="273" alt="Screen Shot 2021-07-04 at 1 51 46 PM" src="https://user-images.githubusercontent.com/86029436/124398098-79897e80-dcd9-11eb-9eff-351add5fbe2c.png">
