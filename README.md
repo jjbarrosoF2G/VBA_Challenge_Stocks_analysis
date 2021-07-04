@@ -1,4 +1,4 @@
-# stock-analysis
+# Green stock analysis (and VBA challenge)
 ## Overview of Project:
 The main objective of this analysis is to quickly identify potentially attractive stocks for new investors, based on positive performing stocks from 2017 & 2018. 
 
